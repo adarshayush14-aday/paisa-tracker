@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.mypaisatracker.app",
+        "sha256_cert_fingerprints": ["82:C3:D8:72:52:0E:FE:62:9C:F5:E0:56:DF:D0:D1:65:87:F0:22:E1:C3:43:82:99:67:D5:B9:A5:6A:4D:85:25"]
+      }
+    }]
